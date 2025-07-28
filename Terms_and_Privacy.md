@@ -1,3 +1,5 @@
+The main function of this app is to backup photos and videos from iDevice to Mac and keep the photo album
+
 【Privacy Policy】
 
 By using《iPhotoBackup》App, we respect your privacy:
