@@ -4,7 +4,8 @@
   <hr>
   <p>[Backing up Structure]</p>
   <ol>
-  <li>Connect your iDevice via USB</li>
+  <li>Connect your iDevice via USB on Mac</li>
+  <li>Trust the computer(if need)</li>
   <li>Wait for load physical album complete</li>
   <li>Select the photo list(s)</li>
   <li>Click Backup button or Backup All</li>
